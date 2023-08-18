@@ -11,7 +11,7 @@
 
 ## Account management
 
-* [🖥 WIP](account-management/wip.md)
+* [🖥 Manage your subscription](account-management/manage-your-subscription.md)
 
 ## Chrome extension
 
