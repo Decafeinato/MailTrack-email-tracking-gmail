@@ -17,7 +17,7 @@ After the installation (it usually takes less than 15 seconds) you will get a po
 
 ## Launch Mail Track for Gmail <a href="#h.4p9vsne6s5z4_l" id="h.4p9vsne6s5z4_l"></a>
 
-<figure><img src="../.gitbook/assets/open mailtrack addon.png" alt="How to launch Mail Track for Gmail Google Workspace add-on"><figcaption><p>How to launch Mail Track for Gmail add-on</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/open mailtrack addonv2.png" alt="How to launch Mail Track for Gmail Google Workspace add-on"><figcaption><p>How to launch Mail Track for Gmail add-on</p></figcaption></figure>
 
 * Go to your Gmail Inbox (if Gmail was already opened, refresh the page)
 * In the sidebar, on the right, click on Mail Track for the Gmail icon
