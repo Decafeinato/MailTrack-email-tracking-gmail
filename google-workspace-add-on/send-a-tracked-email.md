@@ -9,7 +9,13 @@ description: >-
 
 ## Track an email from Desktop
 
-WIP
+<figure><img src="../.gitbook/assets/insert from desk.png" alt="insert a tracker from Gmail Desktop"><figcaption><p>insert a tracker from Gmail web interface</p></figcaption></figure>
+
+From your Gmail inbox follow these 3 :&#x20;
+
+1. When your email draft is ready**,** click on the menu button in the bottom right corner of Gmail draft panel. To avoid false positives in email tracking, **be sure to perform this step after writing your email and setting recipient(s).**
+2. In the popup,  **you** can select the type of tracker you want to insert
+3. Your email is now tracked !
 
 ## Track an email from the Gmail mobile App
 
