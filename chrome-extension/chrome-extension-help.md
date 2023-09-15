@@ -4,7 +4,7 @@ description: Welcome to the help page of our Chrome extension
 
 # Chrome extension help
 
-### To log in to the extension :&#x20;
+### How to enable the extension :&#x20;
 
 <figure><img src="../.gitbook/assets/onboarding.png" alt=""><figcaption></figcaption></figure>
 
