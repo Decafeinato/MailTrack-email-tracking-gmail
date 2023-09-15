@@ -6,11 +6,13 @@ description: Welcome to the help page of our Chrome extension
 
 ### How to enable the extension :&#x20;
 
-<figure><img src="../.gitbook/assets/onboarding.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/onboarding.png" alt="How to enable Mail Track extension"><figcaption><p>How to enable Mail Track extension</p></figcaption></figure>
 
-* Go to your Gmail Inbox,
-* In the top right corner, click on the Mail Track icon
-* Enable the extension&#x20;
+To enable Mail Track in your Google account :
+
+1. Go to your Gmail Inbox,
+2. In the top right corner, click on the Mail Track icon
+3. Enable the extension&#x20;
 
 ### More detailed documentation is available here:
 
