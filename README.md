@@ -8,6 +8,14 @@ We have an holistic approach: we think that our email tracking tool should be av
 
 
 
+## Support
+
+Need to contact customer support?
+
+**Contact us at** [**contact@mailtrack.email**](mailto:contact@mailtrack.email)
+
+
+
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.

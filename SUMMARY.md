@@ -4,14 +4,14 @@
 
 ## documentation
 
-* [🛠 Installation](documentation/installation.md)
-* [⚙ Send your first tracked email](documentation/send-your-first-tracked-email.md)
+* [🛠️ Installation](documentation/installation.md)
+* [⚙️ Send your first tracked email](documentation/send-your-first-tracked-email.md)
 * [🤩 Get your email tracking report](documentation/get-your-email-tracking-report.md)
 * [❓ FAQ](documentation/faq.md)
 
 ## Account management
 
-* [🖥 Manage your subscription](account-management/manage-your-subscription.md)
+* [🖥️ Manage your subscription](account-management/manage-your-subscription.md)
 
 ## Chrome extension
 
