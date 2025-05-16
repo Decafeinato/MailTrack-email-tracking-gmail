@@ -6,7 +6,7 @@ description: You will learn how to install Mail Track add-on in your Google Gmai
 
 ## Install Mail Track for Gmail <a href="#h.yh7yiptzhjsv_l" id="h.yh7yiptzhjsv_l"></a>
 
-Install Mail Merge for Gmail from the [Google Workspace marketplace](https://workspace.google.com/marketplace/app/mail\_merge\_for\_gmail\_%F0%9F%93%A3/562406866377) if you haven’t already done so by clicking on the “Install” button.
+Install Mail Merge for Gmail from the [Google Workspace marketplace](https://workspace.google.com/marketplace/app/mail_tracker_for_gmail/888949007475) if you haven’t already done so by clicking on the “Install” button.
 
 <figure><img src="../.gitbook/assets/marketplace.png" alt="Install Mail Track for Gmail from the Google Workspace Marketplace"><figcaption><p>Install Mail Track for Gmail from the Google Workspace Marketplace</p></figcaption></figure>
 
