@@ -1,8 +1,11 @@
 ---
-description: Learn how to track your first email with Mail Track for Gmail
+description: >-
+  Learn how to send your first tracked email with Mail track for Gmail. Mail
+  track integrates directly into Gmail and shows when your emails have been
+  opened — in real time.
 ---
 
-# ⚙ Send your first tracked email
+# ⚙️ Send your first tracked email
 
 {% hint style="info" %}
 **Mail track for Gmail is a suite of 2 tools** to work on all platforms.
