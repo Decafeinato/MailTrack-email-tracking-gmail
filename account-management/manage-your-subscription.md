@@ -10,7 +10,7 @@ From either version, you can **update your** [**plan**](https://mailtrack.email/
 
 ### Manage Subscription in the Google Workspace Add-on
 
-If you’re using the [**`Mail Track Add-on`**](https://support.mailtrack.email/google-workspace-add-on/installation) inside Gmail, you can manage your subscription and billing directly from the sidebar — without leaving your inbox.
+If you’re using the [**Mail Track Add-on**](https://support.mailtrack.email/google-workspace-add-on/installation) inside Gmail, you can manage your subscription and billing directly from the sidebar — without leaving your inbox.
 
 Follow these steps:
 
