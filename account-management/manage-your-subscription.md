@@ -6,7 +6,9 @@ description: >-
 
 # 💳 Manage Your Subscription
 
-From either version, you can **update your** [**plan**](https://mailtrack.email/#pricing)**, cancel your subscription, add or update a payment method, and download invoices**.
+{% hint style="info" %}
+From either version, you can update your [plan](https://mailtrack.email/#pricing), cancel your subscription, add or update a payment method, and download invoices.
+{% endhint %}
 
 ### Manage Subscription in the Google Workspace Add-on
 
