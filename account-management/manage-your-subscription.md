@@ -25,7 +25,7 @@ Follow these steps:
 
 ### How to Manage Subscription in the Google Workspace Extention
 
-If you’re using the **Mail Track Chrome Extension**, you can also manage your subscription directly from the extension window in Gmail.
+If you’re using the [**Mail Track Chrome Extension**](https://support.mailtrack.email/chrome-extension/installation), you can also manage your subscription directly from the extension window in Gmail.
 
 Follow these steps:
 
