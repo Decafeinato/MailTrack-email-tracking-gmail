@@ -1,8 +1,11 @@
 ---
-description: You will learn how to get information about an email tracked
+description: >-
+  Learn how to view and interpret your email tracking results with Mail Track
+  for Gmail. Mail Track provides real-time feedback on when your emails have
+  been opened and read, directly inside Gmail.
 ---
 
-# 🤩 Get your email tracking report
+# 📊 Get your email tracking report
 
 {% hint style="info" %}
 **Mail track for Gmail is a suite of 2 tools** to work on all platforms.
