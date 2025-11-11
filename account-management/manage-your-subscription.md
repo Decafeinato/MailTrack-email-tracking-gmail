@@ -14,9 +14,8 @@ If you’re using the [**Mail Track Add-on**](https://support.mailtrack.email/go
 
 Follow these steps:
 
-**1. Open Gmail.**
-
-2. In the right-hand sidebar, click the **Mail Track for Gmail** icon.
+1. **Open Gmail.**
+2. In the right-hand sidebar, click the **Mailtrack for Gmail** icon.
 3. Tap three dots and the **Settings ⚙️** button to open your preferences.
 4. At the bottom, select **Manage subscription**.
 
