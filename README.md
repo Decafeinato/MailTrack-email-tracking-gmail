@@ -3,6 +3,7 @@ description: >-
   Send emails with confidence — know exactly when your message is opened.  
   Mailtrack brings transparency to your Gmail, helping you follow up smarter and
   stay in control.
+coverY: 0
 ---
 
 # 👋 Welcome to Mail Track for Gmail
