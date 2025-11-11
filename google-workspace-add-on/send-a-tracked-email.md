@@ -13,7 +13,7 @@ description: >-
 
 From your Gmail inbox follow these 3 :&#x20;
 
-1. When your email draft is ready**,** click on the menu button in the bottom right corner of Gmail draft panel. To avoid false positives in email tracking, **be sure to perform this step after writing your email and setting recipient(s).**
+1. When your email draft is read&#x79;**,** click on the menu button in the bottom right corner of Gmail draft panel. To avoid false positives in email tracking, **be sure to perform this step after writing your email and setting recipient(s).**
 2. In the popup,  **you** can select the type of tracker you want to insert
 3. Your email is now tracked !
 
@@ -23,7 +23,7 @@ From your Gmail inbox follow these 3 :&#x20;
 
 From Gmail mobile Application (on IOS and Android), follow these 4 steps :&#x20;
 
-1. When your email draft is ready**,** click on the menu button in the top right corner of Gmail mobile application. To avoid false positives in email tracking, **be sure to perform this step after writing your email and setting recipient(s).**
+1. When your email draft is read&#x79;**,** click on the menu button in the top right corner of Gmail mobile application. To avoid false positives in email tracking, **be sure to perform this step after writing your email and setting recipient(s).**
 2. In the popup, **select "Insert from Mail Track for Gmail".** Please not that the label of this text will be different depending on your phone language. &#x20;
 3. You can select the type of tracker you want to insert
 4. Your email is now tracked

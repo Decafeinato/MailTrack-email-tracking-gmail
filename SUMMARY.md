@@ -11,7 +11,7 @@
 
 ## Account management
 
-* [🖥️ Manage your subscription](account-management/manage-your-subscription.md)
+* [💳 Manage Your Subscription](account-management/manage-your-subscription.md)
 
 ## Chrome extension
 
