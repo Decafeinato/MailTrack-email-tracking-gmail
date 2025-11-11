@@ -5,7 +5,7 @@ description: How to install Mail Track for Gmail
 # 🛠️ Installation
 
 {% hint style="info" %}
-**Mail track for Gmail is a suite of 2 tools** to work on all platforms.
+Mail track for Gmail is offered in two versions, both designed to work smoothly within Gmail and Google Workspace environments.
 
 \
 The product includes two independent versions — a [**Google Workspace Add-on** ](https://support.mailtrack.email/google-workspace-add-on/installation)and a [**Chrome Extension**](https://support.mailtrack.email/chrome-extension/installation) — each offering the same reliable tracking experience.
