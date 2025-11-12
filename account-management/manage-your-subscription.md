@@ -21,9 +21,9 @@ Follow these steps:
 3. Tap three dots and the **Settings ⚙️** button to open your preferences.
 4. At the bottom, select **Manage subscription**.
 
-<figure><img src="../.gitbook/assets/Area.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Addon gif.gif" alt=""><figcaption></figcaption></figure>
 
-### How to Manage Subscription in the Google Workspace Extention
+### How to Manage Subscription in the Google Workspace Extension
 
 If you’re using the [**Mail Track Chrome Extension**](https://support.mailtrack.email/chrome-extension/installation), you can also manage your subscription directly from the extension window in Gmail.
 
@@ -34,6 +34,6 @@ Follow these steps:
 3. Click the **profile icon (👤)** in the top-right corner of the panel.
 4. Select **Subscription** from the dropdown menu.
 
-<figure><img src="../.gitbook/assets/Extension manage sub.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/extension gif.gif" alt=""><figcaption></figcaption></figure>
 
 Didn't find the response to your question ? [contact us](mailto:contact@mailtrack.email)
