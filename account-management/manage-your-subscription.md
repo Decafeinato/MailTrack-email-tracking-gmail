@@ -34,6 +34,6 @@ Follow these steps:
 3. Click the **profile icon (👤)** in the top-right corner of the panel.
 4. Select **Subscription** from the dropdown menu.
 
-<figure><img src="../.gitbook/assets/extension gif.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/extension.gif" alt=""><figcaption></figcaption></figure>
 
 Didn't find the response to your question ? [contact us](mailto:contact@mailtrack.email)
