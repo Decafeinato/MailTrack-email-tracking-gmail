@@ -30,7 +30,7 @@ You’ll see the familiar checkmarks appear next to each sent email:
 
 ![](<../.gitbook/assets/Screenshot 2025-11-14 at 19.36.03.png>)
 
-#### ☑️ ☑️**Two transparent checkmarks — Email sent**
+#### ☑️☑️**Two transparent checkmarks — Email sent**
 
 Mailtrack successfully sent your message.
 
