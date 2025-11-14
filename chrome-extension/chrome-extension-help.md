@@ -1,18 +1,42 @@
 ---
-description: Welcome to the help page of our Chrome extension
+description: >-
+  Welcome to the help page for the Mail Track Chrome Extension. This guide
+  explains how to enable tracking, check your Mail track status, and manage
+  settings — all directly within Gmail.
 ---
 
-# Chrome extension help
+# 🧩Chrome extension help
 
-### How to enable the extension :&#x20;
+### How to Enable the Chrome Extension
 
-<figure><img src="../.gitbook/assets/onboarding.png" alt="How to enable Mail Track extension"><figcaption><p>How to enable Mail Track extension</p></figcaption></figure>
+Once you’ve installed Mailtrack from the [Chrome Web Store](https://chrome.google.com/webstore), it integrates automatically into Gmail.
 
-To enable Mail Track in your Google account :
+To activate tracking:
 
-1. Go to your Gmail Inbox,
-2. In the top right corner, click on the Mail Track icon
-3. Enable the extension&#x20;
+1. Open your **Gmail inbox**.
+2. Look for the **Mail Track checkmark icon** in the top bar of Gmail (next to the search box).
+3. Click the icon to open the quick menu.
+4. Switch **Mailtrack** to the **ON** position.
+5. Optional:
+   * Enable **Track emails by default** to automatically track all outgoing emails.
+   * Turn on **Invisible Tracker** if you prefer your recipients not to see the Mailtrack signature. (_Pro feature_).
+
+<figure><img src="../.gitbook/assets/how to use .gif" alt=""><figcaption></figcaption></figure>
+
+### Using Mailtrack in Gmail
+
+Once enabled, Mailtrack automatically tracks emails you send from Gmail.\
+You’ll see the familiar checkmarks appear next to each sent email:
+
+![](<../.gitbook/assets/Screenshot 2025-11-14 at 19.36.03.png>)
+
+#### ☑️ ☑️**Two transparent checkmarks — Email sent**
+
+Mailtrack successfully sent your message.
+
+#### ✅✅ **Two green checkmarks — Email opened**
+
+Your email has been **opened** by the recipient.
 
 ### More detailed documentation is available here:
 
@@ -31,3 +55,4 @@ To enable Mail Track in your Google account :
 {% content-ref url="settings.md" %}
 [settings.md](settings.md)
 {% endcontent-ref %}
+

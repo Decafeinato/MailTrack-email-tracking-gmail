@@ -15,7 +15,7 @@
 
 ## Chrome extension
 
-* [Chrome extension help](chrome-extension/chrome-extension-help.md)
+* [🧩Chrome extension help](chrome-extension/chrome-extension-help.md)
 * [Installation](chrome-extension/installation.md)
 * [Send a tracked email](chrome-extension/send-a-tracked-email.md)
 * [Email tracking report](chrome-extension/email-tracking-report.md)
