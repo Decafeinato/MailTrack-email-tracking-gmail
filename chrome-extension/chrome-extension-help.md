@@ -5,7 +5,7 @@ description: >-
   settings — all directly within Gmail.
 ---
 
-# 🧩Chrome extension help
+# Chrome extension help
 
 ### How to Enable the Chrome Extension
 
@@ -37,6 +37,24 @@ Mailtrack successfully sent your message.
 #### ✅✅ **Two green checkmarks — Email opened**
 
 Your email has been **opened** by the recipient.
+
+### 🔍 Search by Recipient
+
+Mailtrack now supports **“Search by Recipient”**, allowing you to quickly find all tracked emails sent to a specific person — directly inside Gmail.
+
+You can search by:
+
+* **Email address**
+* **Subject line**
+
+{% file src="../.gitbook/assets/search by recepient.gif" %}
+
+Just type the recipient's email in the search bar, and you’ll see all tracked messages associated with it.
+
+This makes it easy to:
+
+* review engagement history,
+* and track conversations with important recipients.
 
 ### More detailed documentation is available here:
 
