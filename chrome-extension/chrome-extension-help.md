@@ -47,7 +47,7 @@ You can search by:
 * **Email address**
 * **Subject line**
 
-{% file src="../.gitbook/assets/search by recepient.gif" %}
+<figure><img src="../.gitbook/assets/search by recepient (1).gif" alt=""><figcaption></figcaption></figure>
 
 Just type the recipient's email in the search bar, and you’ll see all tracked messages associated with it.
 
