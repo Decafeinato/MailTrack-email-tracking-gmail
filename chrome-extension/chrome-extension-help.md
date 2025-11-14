@@ -19,7 +19,7 @@ To activate tracking:
 4. Switch **Mailtrack** to the **ON** position.
 5. Optional:
    * Enable **Track emails by default** to automatically track all outgoing emails.
-   * Turn on **Invisible Tracker** if you prefer your recipients not to see the Mailtrack signature. (_Pro feature_).
+   * Turn on **Invisible Tracker** if you prefer your recipients not to see the Mailtrack signature. ([_Pro_ ](https://mailtrack-billing.web.app/pay)_feature_).
 
 <figure><img src="../.gitbook/assets/how to use .gif" alt=""><figcaption></figcaption></figure>
 
