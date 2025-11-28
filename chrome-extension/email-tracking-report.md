@@ -4,8 +4,6 @@ description: You will learn how to get data about sent tracked emails
 
 # Email tracking report
 
-You can view detailed tracking activity for all your sent emails directly from the Chrome Extension.
-
 To open your tracking report:
 
 1. Open Gmail.
