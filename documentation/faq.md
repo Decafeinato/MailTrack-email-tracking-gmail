@@ -32,7 +32,7 @@ More details [here](../google-workspace-add-on/installation.md#h.2zr90orf384h_l)
 
 <details>
 
-<summary><strong>How to delete a tracker</strong></summary>
+<summary>How to delete a tracker</summary>
 
 You can delete individual trackers directly from the Mail Track Chrome Extension.
 
