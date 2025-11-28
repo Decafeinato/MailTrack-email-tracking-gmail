@@ -4,9 +4,16 @@ description: You will learn how to get data about sent tracked emails
 
 # Email tracking report
 
-From the Chrome Extension, you can access the email tracking report by clicking on "Email Tracking report button" :&#x20;
+You can view detailed tracking activity for all your sent emails directly from the Chrome Extension.
 
-<figure><img src="../.gitbook/assets/chrome extension open email tracking report.png" alt="This is how to open email tracking report from Chrome Extension"><figcaption><p>This is how to open email tracking report from Chrome Extension</p></figcaption></figure>
+To open your tracking report:
+
+1. Open Gmail.
+2. Click the **Mail Track icon** in the top-right corner of Gmail.
+3. Click your **account/profile icon (👤)** in the extension menu.
+4. Select **Open webapp**.
+
+<figure><img src="../.gitbook/assets/Area.gif" alt=""><figcaption></figcaption></figure>
 
 The Email tracking dashboard will be open in a new tab. From there, you can access all your tracked emails thread, and see the aggregated statistics (status, number of times opened...)
 
