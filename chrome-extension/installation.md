@@ -8,7 +8,7 @@ description: You will learn how to install Mail Track for Gmail chrome extension
 
 Here are the 4 steps to install Mail Track for Gmail:
 
-1. Go to the Chrome store on our [extension page](https://chrome.google.com/webstore/detail/mail-track-for-gmail/eobgehilgdnebnogmmfblkcpmmbgfhag)
+1. Go to the Chrome store on our [extension page](https://chromewebstore.google.com/detail/gmailtrack/glkmdbkjgjeacahocnjkglbpiagfgeko)
 2. Click on "Add to Chrome". Chrome will ask you to confirm the permissions of the extension.
 3. From now you can go to your [Gmail inbox](https://mail.google.com/mail/u/0/#inbox), and the icon of the extension will be displayed directly in the Gmail interface.
 4. You can now activate Mail Track for Gmail by clicking on this icon, and [start tracking your emails](send-a-tracked-email.md).
