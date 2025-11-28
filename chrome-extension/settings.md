@@ -6,7 +6,7 @@ description: Settings available in Mail Track for Gmail Chrome Extension
 
 You can access the settings panel in the Chrome extension by clicking on the Mail Track for Gmail icon, in the Gmail interface.&#x20;
 
-<figure><img src="../.gitbook/assets/chrome extension settings.png" alt="Settings in the Chrome extension"><figcaption><p>Settings in the Chrome extension</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/Screenshot 2025-11-28 at 23.38.20.png" alt=""><figcaption></figcaption></figure>
 
 Here is a description of the settings available
 
