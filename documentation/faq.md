@@ -20,7 +20,7 @@ In the end, these tools are connected, so you can use the two of them!&#x20;
 
 <details>
 
-<summary>The add-on installation seems to be successful but I can't find the shortcut in my Gmail inbox</summary>
+<summary>The add-on installation seems to be successful but I can't find the shortcut in my Gmail inbox?</summary>
 
 This issue is affecting all Google Add-ons, it occurs when you have multiple accounts signed in under the same Google Chrome Profile.
 
@@ -32,7 +32,7 @@ More details [here](../google-workspace-add-on/installation.md#h.2zr90orf384h_l)
 
 <details>
 
-<summary>How to delete a tracker</summary>
+<summary>How to delete a tracker?</summary>
 
 You can delete individual trackers directly from the Mail Track Chrome Extension.
 
